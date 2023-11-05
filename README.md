@@ -31,8 +31,8 @@ This section must include assessment description
 
 
 
+The assessment is designed for the Accenture Intern Program
 
-This assessement is made inorder for Accenous Intern program
 
      
 
