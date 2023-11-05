@@ -31,7 +31,7 @@ This section must include assessment description
 
 
 
-The assessment is designed for the Accenture Intern Program
+The assessment is designed for the Accenous Integrals Internship Program
 
 
      
