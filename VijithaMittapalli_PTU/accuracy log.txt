@@ -1,0 +1,10 @@
+Epoch 11: accuracy did not improve from 0.82812
+257/257 - 251s - loss: 0.8127 - accuracy: 0.7598 - val_loss: 0.6498 - val_accuracy: 0.8028 - lr: 1.0000e-04 - 251s/epoch - 975ms/step
+Epoch 12: accuracy did not improve from 0.82812
+257/257 - 246s - loss: 0.8030 - accuracy: 0.7602 - val_loss: 0.6417 - val_accuracy: 0.8070 - lr: 1.0000e-04 - 246s/epoch - 957ms/step
+Epoch 13: accuracy did not improve from 0.85938
+257/257 - 256s - loss: 0.7908 - accuracy: 0.7614 - val_loss: 0.6420 - val_accuracy: 0.8093 - lr: 1.0000e-04 - 256s/epoch - 998ms/step
+Epoch 14: accuracy did not improve from 0.85938
+257/257 - 252s - loss: 0.7668 - accuracy: 0.7684 - val_loss: 0.6380 - val_accuracy: 0.8085 - lr: 1.0000e-04 - 252s/epoch - 981ms/step
+Epoch 15: accuracy did not improve from 0.85938
+257/257 - 253s - loss: 0.7676 - accuracy: 0.7651 - val_loss: 0.6422 - val_accuracy: 0.8075 - lr: 1.0000e-04 - 253s/epoch - 983ms/step
